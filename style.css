@@ -1,0 +1,5 @@
+body{margin:0;font-family:Arial;background:linear-gradient(#091540,#30004d);color:#fff;text-align:center}
+.center{padding:40px}.balloons{display:flex;justify-content:center;gap:20px;flex-wrap:wrap}
+.balloons div{background:#ff5b8a;padding:20px;border-radius:50px;animation:f 2s infinite}
+img{width:160px;height:200px;object-fit:cover;border-radius:20px}
+@keyframes f{50%{transform:translateY(-15px)}}button{padding:12px 20px;border-radius:20px}
